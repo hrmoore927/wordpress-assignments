@@ -1,0 +1,59 @@
+=== Plugin Name ===
+Contributors: newscope
+Donate link: http://example.com/
+Tags: social media, simple, social, media, icons
+Requires at least: 3.5
+Tested up to: 4.4.1
+Stable tag: 4.4.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+== Description ==
+
+Simple Social Media lets you add rounded social media icons to your WordPress page, post or text-widget.
+
+== Installation ==
+
+1. Upload the plugin files to the `/wp-content/plugins/plugin-name` directory, or install the plugin through the WordPress plugins screen directly.
+
+2. Activate the plugin through the 'Plugins' screen in WordPress
+
+3. Go to the admin panel "Social Media"
+
+4. Enter the URLs of your social media accounts into the inputfields
+
+5. Choose a color for the icons
+
+6. Save changes
+
+7. Display icons by pasting the shortcode [social_media] to a page, post or text-widget
+
+
+== Frequently Asked Questions ==
+
+No questions yet.
+
+== Screenshots ==
+
+1. This screenshot shows the backend view of the plugin.
+
+2. This is an example how to implement the icons.
+
+3. This is the output.
+
+== Changelog ==
+
+= 1.0 =
+* Lets do this
+
+= 1.1 =
+* Fixed Instagram-Button
+
+== Upgrade Notice ==
+
+= 1.0 =
+First version of the plugin. Feel free to report bugs if you can find any.
+
+== Arbitrary section ==
+
+
