@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Social Media Icons Widget
+Plugin Name: Social Media Icons Plugin
 Plugin URI: http://hraemoore.com
 Description: This is a plugin to add a social media icons to any post or page using shortcodes with links to social media pages
 Version: 1.0
@@ -36,7 +36,7 @@ function social_media() {
     <div class="wrap">
         <h2>Social Media Channels</h2>
         <p>
-            Here you can add social media icons to your WordPress-page.<br> You can display them by including the <code>[social_media]</code> shortcode to any page, post or text-widget you like.
+            Here you can add social media icons to your WordPress-page.<br> You can display them by including the <code>[social_media]</code> shortcode to any page or post you like.
         </p>
         <!-- Define Social Media Channels -->
         <h4 class="social_info_text">
