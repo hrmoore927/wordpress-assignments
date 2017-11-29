@@ -11,7 +11,7 @@ License: GPLv2
 
 // Add Menu Item "Social Media Buttons" to Admin Menu
 function addSocialMenu() {
-  add_menu_page('Social Media Buttons', 'Social Media Buttons', 10, __FILE__, 'social_media');
+  add_menu_page('Social Media Icons', 'Social Media Icons', 10, __FILE__, 'social_media');
 }
 add_action('admin_menu', 'addSocialMenu');
 // Enqueue plugin sytles
