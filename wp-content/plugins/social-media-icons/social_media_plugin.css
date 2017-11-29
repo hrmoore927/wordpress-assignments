@@ -1,24 +1,24 @@
 /* ------------------------------------ WP Backend CSS ------------------------------------*/
 
-.social_info_text{
-	margin:20px 0 0 0;
+.social_info_text {
+    margin: 20px 0 0 0;
 }
 
-.social_channel{
-	margin:10px 0;
+.social_channel {
+    margin: 10px 0;
 }
 
-.social_logo{
-	margin-right:5px;
+.social_logo {
+    margin-right: 5px;
 }
 
-.social_title{
-	display:inline-block;
-	width:80px;
-	margin-top:-12px;
+.social_title {
+    display: inline-block;
+    width: 80px;
+    margin-top: -12px;
 }
 
-.social_url{
-	width:300px;
-	margin:0;
+.social_url {
+    width: 300px;
+    margin: 0;
 }
